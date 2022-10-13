@@ -1,6 +1,6 @@
 export interface Product{
     id:number;
-    qr_code:string;
+    qrCode:string;
     label:string;
     price:number;
 }
